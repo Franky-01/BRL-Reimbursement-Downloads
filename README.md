@@ -1,2 +1,11 @@
-# BRL-Reimbursement-Downloads
-BRL 报销助手 Windows 安装包与更新下载。源代码保留在私有仓库。
+# BRL 报销助手下载
+
+此仓库仅提供 Windows 安装包、版本说明与更新服务。
+
+[下载安装包](https://github.com/Franky-01/BRL-Reimbursement-Downloads/releases/latest)
+
+安装后从开始菜单打开“BRL 报销助手”。选择材料文件夹后自动整理发票、实物照片与服务费，生成文档供核对签名。核对完成后可一键清理原图。
+
+从 1.2.0 起，应用内支持检查更新、下载安装包与启动安装，无需 GitHub 登录或打开网页。
+
+安装包仅包含程序与空白模板，不包含历史报销材料、实物照片或签名。源代码保留在私有仓库。
