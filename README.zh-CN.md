@@ -2,13 +2,15 @@
 
 [English](README.md) | **中文**
 
-当前版本：**1.3.2** · [最新版本](https://github.com/Franky-01/BRL-Reimbursement-Downloads/releases/latest)
+当前版本：**1.3.3** · [最新版本](https://github.com/Franky-01/BRL-Reimbursement-Downloads/releases/latest)
 
-- [Windows 64 位安装包](https://github.com/Franky-01/BRL-Reimbursement-Downloads/releases/download/v1.3.2/BRL-Reimbursement-Setup-1.3.2.exe)
-- [Mac Apple 芯片版（M 系列）](https://github.com/Franky-01/BRL-Reimbursement-Downloads/releases/download/v1.3.2/BRL-Reimbursement-1.3.2-macOS-arm64.dmg)
-- [Mac Intel 版](https://github.com/Franky-01/BRL-Reimbursement-Downloads/releases/download/v1.3.2/BRL-Reimbursement-1.3.2-macOS-x86_64.dmg)
+- [Windows 64 位安装包](https://github.com/Franky-01/BRL-Reimbursement-Downloads/releases/download/v1.3.3/BRL-Reimbursement-Setup-1.3.3.exe)
+- [Mac Apple 芯片版（M 系列）](https://github.com/Franky-01/BRL-Reimbursement-Downloads/releases/download/v1.3.3/BRL-Reimbursement-1.3.3-macOS-arm64.dmg)
+- [Mac Intel 版](https://github.com/Franky-01/BRL-Reimbursement-Downloads/releases/download/v1.3.3/BRL-Reimbursement-1.3.3-macOS-x86_64.dmg)
 
 每轮修改同时发布 Windows 和两种 Mac 安装包，并提供校验文件和构建清单。源代码保持私有，下载无需登录。
+
+Windows：从开始菜单打开 BRL Reimbursement；没有创建快捷方式时，进入安装目录，双击带软件图标的 **BRL Reimbursement.exe**。默认目录为 `%LOCALAPPDATA%\Programs\BRL-Reimbursement`。请勿直接打开 start.pyc 或 Python 程序；启动失败会显示提示和日志位置。
 
 Mac：打开 DMG，将软件拖入“应用程序”。最低系统目标为 macOS 13，两版已在 macOS 15 原生环境验证；13/14 尚未实测。Mac 安装包尚未完成 Apple 公证，首次启动可能需要按照[Apple 指引](https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unknown-developer-mh40616/mac)确认。
 
