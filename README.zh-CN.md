@@ -2,13 +2,14 @@
 
 [English](README.md) | **中文**
 
-当前版本：**1.3.1** · [下载安装包](https://github.com/Franky-01/BRL-Reimbursement-Downloads/releases/download/v1.3.1/BRL-Reimbursement-Setup-1.3.1.exe)
+当前版本：**1.3.2** · [最新版本](https://github.com/Franky-01/BRL-Reimbursement-Downloads/releases/latest)
 
-1. 将 PDF 发票与实物照片放进同一个文件夹。
-2. 选择文件夹，点击“生成报销文档”。
-3. 打开清单及服务确认单（如有），核对后自行签名。
-4. 确认无误后，可选择“删除原图片”。
+- [Windows 64 位安装包](https://github.com/Franky-01/BRL-Reimbursement-Downloads/releases/download/v1.3.2/BRL-Reimbursement-Setup-1.3.2.exe)
+- [Mac Apple 芯片版（M 系列）](https://github.com/Franky-01/BRL-Reimbursement-Downloads/releases/download/v1.3.2/BRL-Reimbursement-1.3.2-macOS-arm64.dmg)
+- [Mac Intel 版](https://github.com/Franky-01/BRL-Reimbursement-Downloads/releases/download/v1.3.2/BRL-Reimbursement-1.3.2-macOS-x86_64.dmg)
 
-安装时选择中文，打开软件即为中文；也可通过左侧 Language / 语言 随时切换。软件会记住选择。
+每轮修改同时发布 Windows 和两种 Mac 安装包，并提供校验文件和构建清单。源代码保持私有，下载无需登录。
 
-软件内点击“检查更新 → 下载新版 → 安装新版并退出”，无需登录 GitHub 或打开浏览器。源代码保持私有；本仓库只提供安装包、校验文件及使用说明。
+Mac：打开 DMG，将软件拖入“应用程序”。最低系统目标为 macOS 13，两版已在 macOS 15 原生环境验证；13/14 尚未实测。Mac 安装包尚未完成 Apple 公证，首次启动可能需要按照[Apple 指引](https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unknown-developer-mh40616/mac)确认。
+
+安装包已包含运行环境与中英文 OCR。将 PDF 发票和实物照片放入同一文件夹，选择文件夹并生成文档，核对后签名。照片仅在人工确认后清理，PDF 永不删除，原有文档会先备份。左侧 Language / 语言可切换中英文，并保存选择。之后可在软件内检查更新。
