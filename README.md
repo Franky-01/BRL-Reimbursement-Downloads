@@ -2,13 +2,15 @@
 
 **English** | [中文](README.zh-CN.md)
 
-**Version 1.3.2** · [Latest release](https://github.com/Franky-01/BRL-Reimbursement-Downloads/releases/latest)
+**Version 1.3.3** · [Latest release](https://github.com/Franky-01/BRL-Reimbursement-Downloads/releases/latest)
 
-- [Windows x64](https://github.com/Franky-01/BRL-Reimbursement-Downloads/releases/download/v1.3.2/BRL-Reimbursement-Setup-1.3.2.exe)
-- [Mac Apple Silicon (M series)](https://github.com/Franky-01/BRL-Reimbursement-Downloads/releases/download/v1.3.2/BRL-Reimbursement-1.3.2-macOS-arm64.dmg)
-- [Mac Intel](https://github.com/Franky-01/BRL-Reimbursement-Downloads/releases/download/v1.3.2/BRL-Reimbursement-1.3.2-macOS-x86_64.dmg)
+- [Windows x64](https://github.com/Franky-01/BRL-Reimbursement-Downloads/releases/download/v1.3.3/BRL-Reimbursement-Setup-1.3.3.exe)
+- [Mac Apple Silicon (M series)](https://github.com/Franky-01/BRL-Reimbursement-Downloads/releases/download/v1.3.3/BRL-Reimbursement-1.3.3-macOS-arm64.dmg)
+- [Mac Intel](https://github.com/Franky-01/BRL-Reimbursement-Downloads/releases/download/v1.3.3/BRL-Reimbursement-1.3.3-macOS-x86_64.dmg)
 
 Windows and both Mac installers are published together for every delivered change. Python and Chinese/English OCR are included. Source code stays private.
+
+Windows: open BRL Reimbursement from Start, or double-click BRL Reimbursement.exe in the installation folder even if no shortcuts were created. The default folder is `%LOCALAPPDATA%\Programs\BRL-Reimbursement`. Do not open start.pyc or the Python executables directly. Startup errors show a message and log location.
 
 On Mac, open the DMG and drag BRL Reimbursement into Applications. The minimum target is macOS 13; native tests ran on macOS 15. The Mac app has ad hoc signing and has not been Apple-notarized. First-launch instructions: [Apple guide](https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unknown-developer-mh40616/mac).
 
