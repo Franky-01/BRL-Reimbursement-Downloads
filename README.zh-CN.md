@@ -2,11 +2,11 @@
 
 [English](README.md) | **中文**
 
-当前版本：**1.3.3** · [最新版本](https://github.com/Franky-01/BRL-Reimbursement-Downloads/releases/latest)
+当前版本：**1.3.4** · [最新版本](https://github.com/Franky-01/BRL-Reimbursement-Downloads/releases/latest)
 
-- [Windows 64 位安装包](https://github.com/Franky-01/BRL-Reimbursement-Downloads/releases/download/v1.3.3/BRL-Reimbursement-Setup-1.3.3.exe)
-- [Mac Apple 芯片版（M 系列）](https://github.com/Franky-01/BRL-Reimbursement-Downloads/releases/download/v1.3.3/BRL-Reimbursement-1.3.3-macOS-arm64.dmg)
-- [Mac Intel 版](https://github.com/Franky-01/BRL-Reimbursement-Downloads/releases/download/v1.3.3/BRL-Reimbursement-1.3.3-macOS-x86_64.dmg)
+- [Windows 64 位安装包](https://github.com/Franky-01/BRL-Reimbursement-Downloads/releases/download/v1.3.4/BRL-Reimbursement-Setup-1.3.4.exe)
+- [Mac Apple 芯片版（M 系列）](https://github.com/Franky-01/BRL-Reimbursement-Downloads/releases/download/v1.3.4/BRL-Reimbursement-1.3.4-macOS-arm64.dmg)
+- [Mac Intel 版](https://github.com/Franky-01/BRL-Reimbursement-Downloads/releases/download/v1.3.4/BRL-Reimbursement-1.3.4-macOS-x86_64.dmg)
 
 每轮修改同时发布 Windows 和两种 Mac 安装包，并提供校验文件和构建清单。源代码保持私有，下载无需登录。
 
